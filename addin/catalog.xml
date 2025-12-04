@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OfficeAppCatalog xmlns="http://schemas.microsoft.com/office/appforoffice/1.1">
+  <AppSource>
+    <Id>99ceae05-b123-44cb-b88a-e06ceab657c7</Id>
+    <Version>0.0.3.0</Version>
+    <ManifestUrl>https://pecanka.net/addin/manifest.xml</ManifestUrl>
+  </AppSource>
+</OfficeAppCatalog>
